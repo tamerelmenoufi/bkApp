@@ -14,6 +14,28 @@
 		96905EF65AED1B983A6B3ABC /* libPods-bkApp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 58EEBF8E8E6FB1BC6CAF49B5 /* libPods-bkApp.a */; };
 		B18059E884C0ABDD17F3DC3D /* ExpoModulesProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAC715A2D49A985799AEE119 /* ExpoModulesProvider.swift */; };
 		BB2F792D24A3F905000567C9 /* Expo.plist in Resources */ = {isa = PBXBuildFile; fileRef = BB2F792C24A3F905000567C9 /* Expo.plist */; };
+		079D308E68874CAFB868FF91 /* FlameBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 078C97E9F6604D0799DE1C19 /* FlameBold.otf */; };
+		023B64C2B2CE4D55A22159BC /* Uniform Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = 473BED0B38B34C46ABFE952E /* Uniform Black.otf */; };
+		9EF37B11516249CB8B417793 /* Uniform Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 40F56F8817194A27B070E5C0 /* Uniform Bold.otf */; };
+		DBB818C808974E4CADD46A50 /* Uniform Condensed Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = 22FF233966F2496598B15EB6 /* Uniform Condensed Black.otf */; };
+		03E4BA41AB564177B00EFC7E /* Uniform Condensed Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = C937593D118547579B1AEFC1 /* Uniform Condensed Bold.otf */; };
+		5F4CACCD801E419D926000EB /* Uniform Condensed Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9E9C9EB4008D48CDB0DFF473 /* Uniform Condensed Light.otf */; };
+		1DC3A012EEBD487A89324F07 /* Uniform Condensed Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2BEFF80EB4184718BC8B1932 /* Uniform Condensed Medium.otf */; };
+		420B97EAB10443AAA789531C /* Uniform Condensed Ultra.otf in Resources */ = {isa = PBXBuildFile; fileRef = 614CB4DD8DD4410CA78264A6 /* Uniform Condensed Ultra.otf */; };
+		71B91BF0A1F749CF9BD1A210 /* Uniform Condensed.otf in Resources */ = {isa = PBXBuildFile; fileRef = 75CC870487024157B57C80FB /* Uniform Condensed.otf */; };
+		4D76FA52FC014756ABEA7C7E /* Uniform Extra Condensed Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = F4C91A2ED8394E43AEAA975F /* Uniform Extra Condensed Black.otf */; };
+		803B9415224C4322999408C8 /* Uniform Extra Condensed Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 362947F1860D4056BC8BBCC8 /* Uniform Extra Condensed Bold.otf */; };
+		741A0CCB50D247BD9440B5A4 /* Uniform Extra Condensed Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 80D764BEFACA418C823B53BB /* Uniform Extra Condensed Light.otf */; };
+		A332E19F72564971847271D1 /* Uniform Extra Condensed Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 757A4EF403274700992F9587 /* Uniform Extra Condensed Medium.otf */; };
+		F67C99DC266841C4895670C2 /* Uniform Extra Condensed Ultra.otf in Resources */ = {isa = PBXBuildFile; fileRef = CAD9ACBED3274E6689E20A5E /* Uniform Extra Condensed Ultra.otf */; };
+		0877679686C8487EA16ABF39 /* Uniform Extra Condensed.otf in Resources */ = {isa = PBXBuildFile; fileRef = 829E2AEC44324435939B629D /* Uniform Extra Condensed.otf */; };
+		B5398EC7DA9848E592C69BA1 /* Uniform Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5858CD3DAE314A6B8F5D6329 /* Uniform Light.otf */; };
+		E1922284E6DF4964BEE33A23 /* Uniform Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 6EAE72287E95400CA16E6322 /* Uniform Medium.otf */; };
+		5A340970C96B40F3A36AAED5 /* Uniform Ultra.otf in Resources */ = {isa = PBXBuildFile; fileRef = 4ECA565BC4AE4E5DBAA29EB0 /* Uniform Ultra.otf */; };
+		EC0FA8EC2C39459EA7E6B4D3 /* Uniform.otf in Resources */ = {isa = PBXBuildFile; fileRef = A2849EEB7004424A98697AD2 /* Uniform.otf */; };
+		608F19E19CE1471CBBCA13B0 /* Insanibc.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE3F121368954AC9BD752DA1 /* Insanibc.ttf */; };
+		EF766C25BB4C41DBB575BBA0 /* Insanibu.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1CC2E9D8B4104966B322F3F2 /* Insanibu.ttf */; };
+		EDA2309BEAF0428681633BE0 /* noop-file.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73DB0AA56B5C4D2CBBE8B7AC /* noop-file.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +52,29 @@
 		BB2F792C24A3F905000567C9 /* Expo.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Expo.plist; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		FAC715A2D49A985799AEE119 /* ExpoModulesProvider.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ExpoModulesProvider.swift; path = "Pods/Target Support Files/Pods-bkApp/ExpoModulesProvider.swift"; sourceTree = "<group>"; };
+		078C97E9F6604D0799DE1C19 /* FlameBold.otf */ = {isa = PBXFileReference; name = "FlameBold.otf"; path = "../assets/fonts/FlameBold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		473BED0B38B34C46ABFE952E /* Uniform Black.otf */ = {isa = PBXFileReference; name = "Uniform Black.otf"; path = "../assets/fonts/Uniform Black.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		40F56F8817194A27B070E5C0 /* Uniform Bold.otf */ = {isa = PBXFileReference; name = "Uniform Bold.otf"; path = "../assets/fonts/Uniform Bold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		22FF233966F2496598B15EB6 /* Uniform Condensed Black.otf */ = {isa = PBXFileReference; name = "Uniform Condensed Black.otf"; path = "../assets/fonts/Uniform Condensed Black.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		C937593D118547579B1AEFC1 /* Uniform Condensed Bold.otf */ = {isa = PBXFileReference; name = "Uniform Condensed Bold.otf"; path = "../assets/fonts/Uniform Condensed Bold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9E9C9EB4008D48CDB0DFF473 /* Uniform Condensed Light.otf */ = {isa = PBXFileReference; name = "Uniform Condensed Light.otf"; path = "../assets/fonts/Uniform Condensed Light.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		2BEFF80EB4184718BC8B1932 /* Uniform Condensed Medium.otf */ = {isa = PBXFileReference; name = "Uniform Condensed Medium.otf"; path = "../assets/fonts/Uniform Condensed Medium.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		614CB4DD8DD4410CA78264A6 /* Uniform Condensed Ultra.otf */ = {isa = PBXFileReference; name = "Uniform Condensed Ultra.otf"; path = "../assets/fonts/Uniform Condensed Ultra.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		75CC870487024157B57C80FB /* Uniform Condensed.otf */ = {isa = PBXFileReference; name = "Uniform Condensed.otf"; path = "../assets/fonts/Uniform Condensed.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F4C91A2ED8394E43AEAA975F /* Uniform Extra Condensed Black.otf */ = {isa = PBXFileReference; name = "Uniform Extra Condensed Black.otf"; path = "../assets/fonts/Uniform Extra Condensed Black.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		362947F1860D4056BC8BBCC8 /* Uniform Extra Condensed Bold.otf */ = {isa = PBXFileReference; name = "Uniform Extra Condensed Bold.otf"; path = "../assets/fonts/Uniform Extra Condensed Bold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		80D764BEFACA418C823B53BB /* Uniform Extra Condensed Light.otf */ = {isa = PBXFileReference; name = "Uniform Extra Condensed Light.otf"; path = "../assets/fonts/Uniform Extra Condensed Light.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		757A4EF403274700992F9587 /* Uniform Extra Condensed Medium.otf */ = {isa = PBXFileReference; name = "Uniform Extra Condensed Medium.otf"; path = "../assets/fonts/Uniform Extra Condensed Medium.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		CAD9ACBED3274E6689E20A5E /* Uniform Extra Condensed Ultra.otf */ = {isa = PBXFileReference; name = "Uniform Extra Condensed Ultra.otf"; path = "../assets/fonts/Uniform Extra Condensed Ultra.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		829E2AEC44324435939B629D /* Uniform Extra Condensed.otf */ = {isa = PBXFileReference; name = "Uniform Extra Condensed.otf"; path = "../assets/fonts/Uniform Extra Condensed.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		5858CD3DAE314A6B8F5D6329 /* Uniform Light.otf */ = {isa = PBXFileReference; name = "Uniform Light.otf"; path = "../assets/fonts/Uniform Light.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6EAE72287E95400CA16E6322 /* Uniform Medium.otf */ = {isa = PBXFileReference; name = "Uniform Medium.otf"; path = "../assets/fonts/Uniform Medium.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		4ECA565BC4AE4E5DBAA29EB0 /* Uniform Ultra.otf */ = {isa = PBXFileReference; name = "Uniform Ultra.otf"; path = "../assets/fonts/Uniform Ultra.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A2849EEB7004424A98697AD2 /* Uniform.otf */ = {isa = PBXFileReference; name = "Uniform.otf"; path = "../assets/fonts/Uniform.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		CE3F121368954AC9BD752DA1 /* Insanibc.ttf */ = {isa = PBXFileReference; name = "Insanibc.ttf"; path = "../assets/fonts/Insanibc.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		1CC2E9D8B4104966B322F3F2 /* Insanibu.ttf */ = {isa = PBXFileReference; name = "Insanibu.ttf"; path = "../assets/fonts/Insanibu.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		73DB0AA56B5C4D2CBBE8B7AC /* noop-file.swift */ = {isa = PBXFileReference; name = "noop-file.swift"; path = "bkApp/noop-file.swift"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.swift; explicitFileType = undefined; includeInIndex = 0; };
+		8D34590D49DE4C398762072D /* bkApp-Bridging-Header.h */ = {isa = PBXFileReference; name = "bkApp-Bridging-Header.h"; path = "bkApp/bkApp-Bridging-Header.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +99,8 @@
 				13B07FB61A68108700A75B9A /* Info.plist */,
 				13B07FB71A68108700A75B9A /* main.m */,
 				AA286B85B6C04FC6940260E9 /* SplashScreen.storyboard */,
+				73DB0AA56B5C4D2CBBE8B7AC /* noop-file.swift */,
+				8D34590D49DE4C398762072D /* bkApp-Bridging-Header.h */,
 			);
 			name = bkApp;
 			sourceTree = "<group>";
@@ -83,6 +130,7 @@
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				D65327D7A22EEC0BE12398D9 /* Pods */,
 				D7E4C46ADA2E9064B798F356 /* ExpoModulesProviders */,
+				A32A1D4B6C554D9FA253F520 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -130,6 +178,35 @@
 			);
 			name = ExpoModulesProviders;
 			sourceTree = "<group>";
+		};
+		A32A1D4B6C554D9FA253F520 /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				078C97E9F6604D0799DE1C19 /* FlameBold.otf */,
+				473BED0B38B34C46ABFE952E /* Uniform Black.otf */,
+				40F56F8817194A27B070E5C0 /* Uniform Bold.otf */,
+				22FF233966F2496598B15EB6 /* Uniform Condensed Black.otf */,
+				C937593D118547579B1AEFC1 /* Uniform Condensed Bold.otf */,
+				9E9C9EB4008D48CDB0DFF473 /* Uniform Condensed Light.otf */,
+				2BEFF80EB4184718BC8B1932 /* Uniform Condensed Medium.otf */,
+				614CB4DD8DD4410CA78264A6 /* Uniform Condensed Ultra.otf */,
+				75CC870487024157B57C80FB /* Uniform Condensed.otf */,
+				F4C91A2ED8394E43AEAA975F /* Uniform Extra Condensed Black.otf */,
+				362947F1860D4056BC8BBCC8 /* Uniform Extra Condensed Bold.otf */,
+				80D764BEFACA418C823B53BB /* Uniform Extra Condensed Light.otf */,
+				757A4EF403274700992F9587 /* Uniform Extra Condensed Medium.otf */,
+				CAD9ACBED3274E6689E20A5E /* Uniform Extra Condensed Ultra.otf */,
+				829E2AEC44324435939B629D /* Uniform Extra Condensed.otf */,
+				5858CD3DAE314A6B8F5D6329 /* Uniform Light.otf */,
+				6EAE72287E95400CA16E6322 /* Uniform Medium.otf */,
+				4ECA565BC4AE4E5DBAA29EB0 /* Uniform Ultra.otf */,
+				A2849EEB7004424A98697AD2 /* Uniform.otf */,
+				CE3F121368954AC9BD752DA1 /* Insanibc.ttf */,
+				1CC2E9D8B4104966B322F3F2 /* Insanibu.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -194,6 +271,28 @@
 				BB2F792D24A3F905000567C9 /* Expo.plist in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				3E461D99554A48A4959DE609 /* SplashScreen.storyboard in Resources */,
+				079D308E68874CAFB868FF91 /* FlameBold.otf in Resources */,
+				023B64C2B2CE4D55A22159BC /* Uniform Black.otf in Resources */,
+				9EF37B11516249CB8B417793 /* Uniform Bold.otf in Resources */,
+				DBB818C808974E4CADD46A50 /* Uniform Condensed Black.otf in Resources */,
+				03E4BA41AB564177B00EFC7E /* Uniform Condensed Bold.otf in Resources */,
+				5F4CACCD801E419D926000EB /* Uniform Condensed Light.otf in Resources */,
+				1DC3A012EEBD487A89324F07 /* Uniform Condensed Medium.otf in Resources */,
+				420B97EAB10443AAA789531C /* Uniform Condensed Ultra.otf in Resources */,
+				71B91BF0A1F749CF9BD1A210 /* Uniform Condensed.otf in Resources */,
+				4D76FA52FC014756ABEA7C7E /* Uniform Extra Condensed Black.otf in Resources */,
+				803B9415224C4322999408C8 /* Uniform Extra Condensed Bold.otf in Resources */,
+				741A0CCB50D247BD9440B5A4 /* Uniform Extra Condensed Light.otf in Resources */,
+				A332E19F72564971847271D1 /* Uniform Extra Condensed Medium.otf in Resources */,
+				F67C99DC266841C4895670C2 /* Uniform Extra Condensed Ultra.otf in Resources */,
+				0877679686C8487EA16ABF39 /* Uniform Extra Condensed.otf in Resources */,
+				B5398EC7DA9848E592C69BA1 /* Uniform Light.otf in Resources */,
+				E1922284E6DF4964BEE33A23 /* Uniform Medium.otf in Resources */,
+				5A340970C96B40F3A36AAED5 /* Uniform Ultra.otf in Resources */,
+				EC0FA8EC2C39459EA7E6B4D3 /* Uniform.otf in Resources */,
+				608F19E19CE1471CBBCA13B0 /* Insanibc.ttf in Resources */,
+				EF766C25BB4C41DBB575BBA0 /* Insanibu.ttf in Resources */,
+				6204C94174CB4C45B7EF8410 /* bkApp-Bridging-Header.h in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -287,6 +386,7 @@
 				13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */,
 				13B07FC11A68108700A75B9A /* main.m in Sources */,
 				B18059E884C0ABDD17F3DC3D /* ExpoModulesProvider.swift in Sources */,
+				EDA2309BEAF0428681633BE0 /* noop-file.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -308,17 +408,20 @@
 				INFOPLIST_FILE = bkApp/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-                                MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.0;
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = org.name.bkApp;
-				PRODUCT_NAME = bkApp;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mohatron.bkApp";
+				PRODUCT_NAME = "bkApp";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
+				TARGETED_DEVICE_FAMILY = "1";
+				SWIFT_OBJC_BRIDGING_HEADER = bkApp/bkApp-Bridging-Header.h;
+				CODE_SIGN_ENTITLEMENTS = bkApp/bkApp.entitlements;
 			};
 			name = Debug;
 		};
@@ -332,16 +435,19 @@
 				INFOPLIST_FILE = bkApp/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-                                MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.0;
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = org.name.bkApp;
-				PRODUCT_NAME = bkApp;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mohatron.bkApp";
+				PRODUCT_NAME = "bkApp";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
+				TARGETED_DEVICE_FAMILY = "1";
+				SWIFT_OBJC_BRIDGING_HEADER = bkApp/bkApp-Bridging-Header.h;
+				CODE_SIGN_ENTITLEMENTS = bkApp/bkApp.entitlements;
 			};
 			name = Release;
 		};

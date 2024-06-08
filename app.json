@@ -5,6 +5,15 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "plugins": [
+      "expo-font"
+    ],
+    "android": {
+      "package": "com.mohatron.bkApp"
+    },
+    "ios": {
+      "bundleIdentifier": "com.mohatron.bkApp"
+    }
   }
 }

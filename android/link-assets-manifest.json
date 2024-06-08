@@ -1,0 +1,89 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/FlameBold.otf",
+      "sha1": "dae3145bf0bef5dd7ee391753ae52da0dde650db"
+    },
+    {
+      "path": "assets/fonts/Insanibc.ttf",
+      "sha1": "444d2f675797e3f4974394054f328bb2c7722c4d"
+    },
+    {
+      "path": "assets/fonts/Insanibu.ttf",
+      "sha1": "1217bd2f1bd9794c13e84ef9b6b8dd4c3c73ba3c"
+    },
+    {
+      "path": "assets/fonts/Uniform Black.otf",
+      "sha1": "fda31db6eb984b6671be4dae62a601be58d44c61"
+    },
+    {
+      "path": "assets/fonts/Uniform Bold.otf",
+      "sha1": "b7d60d9d2319d048a288c9c67d836f935ffea75b"
+    },
+    {
+      "path": "assets/fonts/Uniform Condensed Black.otf",
+      "sha1": "dce72bc68e3c20547a4e182398e7d0eb4f2e7c2d"
+    },
+    {
+      "path": "assets/fonts/Uniform Condensed Bold.otf",
+      "sha1": "a52336dbe68251ad6d5e2c80b3d4d3c8ed8f73d5"
+    },
+    {
+      "path": "assets/fonts/Uniform Condensed Light.otf",
+      "sha1": "0ca1975ea70186a69f4f3d41fae62c964e864447"
+    },
+    {
+      "path": "assets/fonts/Uniform Condensed Medium.otf",
+      "sha1": "f41e8b3a457ba212d58cca1fc85f0992abd076c5"
+    },
+    {
+      "path": "assets/fonts/Uniform Condensed Ultra.otf",
+      "sha1": "8bdfd503e753508403f6e2d86ddab4fa1af0b48a"
+    },
+    {
+      "path": "assets/fonts/Uniform Condensed.otf",
+      "sha1": "b7e0194779485c0a028fad225278082138aa336e"
+    },
+    {
+      "path": "assets/fonts/Uniform Extra Condensed Black.otf",
+      "sha1": "222da198699c12da2a37cea7dcb936dcefaa3fee"
+    },
+    {
+      "path": "assets/fonts/Uniform Extra Condensed Bold.otf",
+      "sha1": "504b90e7fca71188cc8d26096dcc161feaaf0a3a"
+    },
+    {
+      "path": "assets/fonts/Uniform Extra Condensed Light.otf",
+      "sha1": "7d53d4cdb04bad611cf8b7e140430c02fed84d0f"
+    },
+    {
+      "path": "assets/fonts/Uniform Extra Condensed Medium.otf",
+      "sha1": "d19db125b86fc6e1aad051e9850b9187fcb607af"
+    },
+    {
+      "path": "assets/fonts/Uniform Extra Condensed Ultra.otf",
+      "sha1": "5a5dd6099e8b21cb83ce949884675cba5f58be55"
+    },
+    {
+      "path": "assets/fonts/Uniform Extra Condensed.otf",
+      "sha1": "fb6fb9e98da8c6445d47db9e640d1354a18cc71f"
+    },
+    {
+      "path": "assets/fonts/Uniform Light.otf",
+      "sha1": "d3886a05adce7190b6db011ea7e8e32f9793bb6e"
+    },
+    {
+      "path": "assets/fonts/Uniform Medium.otf",
+      "sha1": "5f668c9891262da1b3a8e594ae14642bea9eff4f"
+    },
+    {
+      "path": "assets/fonts/Uniform Ultra.otf",
+      "sha1": "f77dac669ce872e06adcf7dc66a9b3650fae4729"
+    },
+    {
+      "path": "assets/fonts/Uniform.otf",
+      "sha1": "89e82b3cd39e29fba4f58dcd70c2eaaebff7c9cc"
+    }
+  ]
+}
